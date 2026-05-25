@@ -8,6 +8,9 @@ git add . (se sube todo)
 crear un comentario para subir al repositorio
 git commit -m "descripción de cambios"
 
+este sirve para hacer dos pasos al tiempo el git add y git commit solo con -am
+git commit -am "descripción"
+
 subir al repositorio
 git push
 
@@ -31,3 +34,7 @@ git branch
 descargar cambio de repositorio
 git pull
 
+si modifico cualquier archivo
+git add "nombre"
+git commit -m "descripción mas reciente"
+git push
