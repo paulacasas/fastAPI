@@ -38,3 +38,6 @@ si modifico cualquier archivo
 git add "nombre"
 git commit -m "descripción mas reciente"
 git push
+
+forzar el push remplazar lo remoto con mi historial local
+git push --force
