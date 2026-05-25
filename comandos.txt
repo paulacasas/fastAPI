@@ -41,3 +41,11 @@ git push
 
 forzar el push remplazar lo remoto con mi historial local
 git push --force
+
+git log 
+ver los comentarios de cada commit 
+nos da el autor, fecha y su movimiento
+
+para volver a un cambio anterior 
+git reset  --hard <commit>
+git reset --hard origin /master (version de GitHub)
