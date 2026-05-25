@@ -1,0 +1,33 @@
+para clonar el repositorio 
+git clone "link"
+
+para agregar el archivo
+git add "nombre"
+git add . (se sube todo)
+
+crear un comentario para subir al repositorio
+git commit -m "descripción de cambios"
+
+subir al repositorio
+git push
+
+eliminar un archivo 
+git rm nombre archivo
+
+git commit - m "elimine el archivo "
+git push
+
+eliminar carpeta
+git rm -r nombre carpeta
+
+git checkout -- [nombre archivo]
+
+ver estado del archivo 
+git status
+
+ver ramas 
+git branch 
+
+descargar cambio de repositorio
+git pull
+
