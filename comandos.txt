@@ -37,6 +37,9 @@ git checkout -b nombre
 para moverme entre ramas
 git checkout nombre rama ya existente
 
+para guardar la información nueva de mi rama local a la del servidor
+git merge
+
 descargar cambio de repositorio
 git pull
 
