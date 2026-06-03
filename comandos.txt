@@ -31,6 +31,12 @@ git status
 ver ramas 
 git branch 
 
+Crear una rama nueva 
+git checkout -b nombre
+
+para moverme entre ramas
+git checkout nombre rama ya existente
+
 descargar cambio de repositorio
 git pull
 
